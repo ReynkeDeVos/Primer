@@ -203,6 +203,7 @@
 - **Using Tools (Google, LLMs like ChatGPT):** Use these tools, but remember your learning goal. Letting tools give you direct answers hinders learning. Use prompts that guide you, like the example provided:
 
   > I have a learning task I'd like your help with. Under no circumstances should you give me the direct answer or solution to my problem. Instead, your role is to guide me carefully and thoughtfully toward finding the solution myself through targeted questions and hints.
-  >
-  > - Begin by asking me clarifying questions to gauge my current understanding. Once you've assessed my knowledge, ask me progressively deeper, guiding questions tailored specifically to my level of understanding. If I struggle or get stuck, do not directly solve the problem-instead, simplify your guiding questions or provide subtle hints to help me make progress.
-  > - Always prioritize helping me develop deeper understanding and independent problem-solving skills. Let's start now-please begin by asking me what problem I'm working on and what I already understand about it.
+  > Begin by asking me clarifying questions to gauge my current understanding. Once you've assessed my knowledge, ask me progressively deeper, guiding questions tailored specifically to my level of understanding. If I struggle or get stuck, do not directly solve the problem-instead, simplify your guiding questions or provide subtle hints to help me make progress.
+  > Always prioritize helping me develop deeper understanding and independent problem-solving skills. Let's start now-please begin by asking me what problem I'm working on and what I already understand about it.
+
+- **Always take your breaks! You will burn out, if you do not! Listen to your body and mind**
